@@ -32,6 +32,10 @@ O objetivo deste repositório é demonstrar meu conhecimento em AWS, adquirido d
 
 :heavy_check_mark: `Funcionalidade 3:` Utilizando a hospedagem de site estático oferecida pelo próprio s3, o site está público e disponível pela internet.
 
+:heavy_check_mark: `Atualização 1:` Em nosso segundo encontro, utilizamos AWS CloudFront e Route53 para distribuir o site.
+
+:heavy_check_mark: `Atualização 2:` Também criamos e habilitados um certificado SSL através do AWS Certificated Manager, para garantir o uso de HTTPS.
+
 
 ###
 
@@ -86,6 +90,23 @@ Ao final tivemos nossa aplicação web hospedada, pública e segura!
 E o bucket organizado ficou da seguinte forma:
 
 <a> <img src="https://github.com/AgataAraujo-dev/site_s3/blob/340f8011022b5ab564217b3b3736606112165164/organiza%C3%A7%C3%A3oFinal.jpg" alt="Organização Final" width="500" height="250"/> </a>
+
+# Atualização 1
+
+Em nosso segundo encontro, utilizamos o AWS CloudFront para distribuir nosso site:
+
+<a> <img src="https://github.com/AgataAraujo-dev/siteEstatico_s3/blob/dbfe40c8902718f1ae24403f969bde6af01e0661/cloudfront.jpg" alt="CloudFront" width="500" height="250"/> </a>
+
+E com o Route53 validamos o DNS da nossa distribuição, para isso também criamos uma Zona Hospedada:
+
+<a> <img src="https://github.com/AgataAraujo-dev/siteEstatico_s3/blob/dbfe40c8902718f1ae24403f969bde6af01e0661/route53.jpg" alt="Route53" width="500" height="250"/> </a>
+
+# Atualização 2
+
+Por fim criamos e habilitamos um certificado SSL com o AWS Certificated Manager, garantindo a segurança do uso de protocolo HTTPS:
+
+<a> <img src="https://github.com/AgataAraujo-dev/siteEstatico_s3/blob/dbfe40c8902718f1ae24403f969bde6af01e0661/https.jpg" alt="HTTPS" width="500" height="250"/> </a>
+
 
 ###
 
