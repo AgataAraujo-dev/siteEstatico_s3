@@ -8,6 +8,8 @@
 
 - [Funcionalidades](#funcionalidades)
 
+- [Atualizações](#atualizações)
+
 - [Passo a Passo](#passo-a-passo)
 
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
@@ -32,9 +34,11 @@ O objetivo deste repositório é demonstrar meu conhecimento em AWS, adquirido d
 
 :heavy_check_mark: `Funcionalidade 3:` Utilizando a hospedagem de site estático oferecida pelo próprio s3, o site está público e disponível pela internet.
 
-:heavy_check_mark: `Atualização 1:` Em nosso segundo encontro, utilizamos AWS CloudFront e Route53 para distribuir o site.
+## Atualizações
 
-:heavy_check_mark: `Atualização 2:` Também criamos e habilitados um certificado SSL através do AWS Certificated Manager, para garantir o uso de HTTPS.
+🆕 `Atualização 1:` Em nosso segundo encontro, utilizamos AWS CloudFront e Route53 para distribuir o site.
+
+🆕 `Atualização 2:` Também criamos e habilitados um certificado SSL através do AWS Certificated Manager, para garantir o uso de HTTPS.
 
 
 ###
